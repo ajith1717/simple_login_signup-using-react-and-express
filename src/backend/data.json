@@ -1,0 +1,37 @@
+[
+    {
+        "email": "ajith19@navgurukul.org",
+        "password": "aaaa",
+        "name": "ajith"
+    },
+    {
+        "email": "params19@navgurukul.org",
+        "password": "11111",
+        "name": "params"
+    },
+    {
+        "email": "h@.com",
+        "password": "h",
+        "name": "h"
+    },
+    {
+        "email": "h.com",
+        "password": "h",
+        "name": "w"
+    },
+    {
+        "email": "yogi19@navgurukul.org",
+        "password": "eeeee",
+        "name": "yogi"
+    },
+    {
+        "email": "kirithiv@navgurukul.org",
+        "password": "44444",
+        "name": "kirithiv "
+    },
+    {
+        "email": "aaaa@gmail.com",
+        "password": "qwf3rfqf",
+        "name": "ranjan"
+    }
+]
